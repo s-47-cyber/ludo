@@ -1,0 +1,23 @@
+.ludo-table{
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 600px;
+    height: 500px;
+    margin: 40px auto;
+    text-align: center;
+   }
+   td{
+    border: 1px solid;
+   }
+   .r{
+    background-color: red;
+   }
+   .g{
+    background-color: green;
+   }
+   .b{
+    background-color: blue;
+   }
+   .y{
+    background-color: yellow;
+   }
